@@ -1,6 +1,6 @@
 # Advent of code 2024
 
-Solutions are in python. 
+Solutions are in python. Code is located in `src/<day>`.
 
 ## Getting cookie file
 
